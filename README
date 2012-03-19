@@ -1,0 +1,13 @@
+# talog
+
+A clojure time tracking application
+
+## Usage
+
+Not much yet. Just a toy project for now. Self educational.
+
+## License
+
+Copyright (C) 2012 floppywaste
+
+Distributed under the Eclipse Public License, the same as Clojure.
